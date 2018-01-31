@@ -3,7 +3,7 @@
 //
 
 // const person = {
-//   name: 'Andrew',
+//   name: 'Mike',
 //   age: 27,
 //   location: {
 //     city: 'Philadelphia',
